@@ -1,9 +1,4 @@
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hello there! I am
-                <b><a target="_blank" [href="https://emon.com.bd/](https://www.facebook.com/natasaislam.t)">Natasa Khatun</a></b>
-        </samp>
-</h3>
+### Hi there 👋, Natasa Khatun
 #### I am Web Designer
 
 
